@@ -3,3 +3,8 @@ dist
 _archive
 .DS_Store
 *.log
+
+# 회사(Backyard) 배포용 파일은 이 컴퓨터에만 두고 개인 깃허브에는 올리지 않음
+Dockerfile
+nginx.conf
+.dockerignore
